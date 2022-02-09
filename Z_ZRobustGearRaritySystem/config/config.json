@@ -1,0 +1,18 @@
+{
+	"DefaultModdedItemsRarity": "Uncommon",
+	"HowMuchAdditionalItemsToAdd": {
+		"SuperRare": 0,
+		"Rare": 1,
+		"Uncommon": 2,
+		"Common": 3
+	},
+	"OverwriteItemRarity": {
+		"Item ID Here": "Common",
+		"Item ID Here": "Rare"
+	},
+	"DontAffectFollowingBots": [
+		"Add Bot Here",
+		"Add Bot Here"
+	],
+	"Debug": false
+}
